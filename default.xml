@@ -1,0 +1,5 @@
+<manifest>
+    <remote  name="bullet" fetch="https://github.com/" />
+    <default revision="master" remote="local"/>
+    <project name="hello" remote="hello"/>
+</manifest>
